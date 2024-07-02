@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdulbosid Nosirjonov</h1>
 <h3 align="center">A passionate Back-end developer from Uzbekistan</h3>
 
-- 🔭 I’m currently working on **onlineshop**
 
 - 🌱 I’m currently learning **django,back-end**
 
